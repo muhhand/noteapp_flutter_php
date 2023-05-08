@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![Screenshot](photo1.jpg)
+![Screenshot](photo2.jpg)
+![Screenshot](photo3.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
