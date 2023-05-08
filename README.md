@@ -1,6 +1,6 @@
 # php_flutter
 
-A new Flutter project.
+Flutter Note App with PHP backend.
 
 ![Screenshot](photo1.jpg)
 ![Screenshot](photo2.jpg)
